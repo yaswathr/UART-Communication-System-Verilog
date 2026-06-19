@@ -91,8 +91,9 @@ Received Data = aa
 ## Author
 
 **Yaswanth Sharma**
+
 B.E. Electronics and Communication Engineering
 
 VLSI  Enthusiast
 
-Bannari Amman Institute Of Techmology.
+Bannari Amman Institute Of Techmology Sathyamangalam.
