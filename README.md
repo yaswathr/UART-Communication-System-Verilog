@@ -17,8 +17,6 @@ This project implements a Universal Asynchronous Receiver Transmitter (UART) com
 
 ## Architecture
 
-![UART Block Diagram](docs/uart_block_diagram.png)
-
 The UART system consists of:
 
 1. **Baud Generator** – Generates baud timing pulses from the system clock.
